@@ -4,4 +4,5 @@ determines whether two sentences have same meaning. This project aims to develop
 paraphrase detection model using NLP, deep learning techniques. The system takes two 
 input sentences and classifies them as paraphrase or not by analysing their semantic 
 similarity and Machine Learning, Deep Learning techniques for classification. This 
-paraphrase detection has applications in plagiarism dete
+paraphrase detection has applications in plagiarism detection, chatbots, text summarization, 
+content validation and intelligent search engines. 
